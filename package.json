@@ -1,0 +1,29 @@
+{
+  "name": "ecommerce-product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasika2804/Ecommerce-Product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasika2804/Ecommerce-Product/issues"
+  },
+  "homepage": "https://github.com/rasika2804/Ecommerce-Product#readme",
+  "dependencies": {
+    "aws-sdk": "^2.821.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-error": "0.0.6",
+    "http-errors": "^1.8.0",
+    "mongoose": "^5.11.10"
+  }
+}
